@@ -171,8 +171,6 @@ h2 {
     text-align: center;
   }
 
-  
-
 }
 
 /* Call to action  */
@@ -180,6 +178,8 @@ h2 {
   text-align: center;
   background-color: #ff4c68;
   padding-bottom: 9%;
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 .cta-item {
@@ -194,4 +194,16 @@ h2 {
 
 .btn {
   margin: 4%;
+}
+
+/*  footer   */
+
+#footer{
+  text-align: center;
+  padding: 12%;
+}
+
+.fa-brands{
+  margin:1%;
+  margin-bottom: 2%;
 }
